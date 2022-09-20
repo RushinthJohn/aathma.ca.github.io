@@ -1,2 +1,3 @@
-# aathma.ca.github.io
-Aathma Canada website repo
+# Aathma Canada website website repo
+
+This repo contains Aathma Canada's HTML files.
